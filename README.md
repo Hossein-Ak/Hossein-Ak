@@ -26,7 +26,7 @@ Hossein</a></h1>
 ---
 
 ### :fire: My Stats :
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Hossein-Ak&theme=dark&show_icons=true&count_private=true" width="350"/>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hossein-Ak&show_icons=true&theme=gotham" alt="Hossein-Ak" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hossein-Ak" width="350" /> 
 
 
