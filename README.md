@@ -18,7 +18,7 @@
 Hossein</a></h1>
 
 
-- 🔭 Currently diving deep into front-end development with Vue.js and Nuxt.js, constantly learning and growing every day.
+- 🔭 Currently working as Full-Stack Engineer with Nuxt.js and Laravel, constantly learning and growing every day.
 - 💪 My passion lies in both front-end and back-end development, and I thrive on solving challenging problems, especially those on LeetCode.
 - 💥 Excited to keep pushing the boundaries of what's possible in tech!
 - 📫 I can be found mostly via emails.
@@ -27,7 +27,7 @@ Hossein</a></h1>
 
 ### :fire: My Stats :
   <p align="center"> 
-   <img src="https://github-readme-stats.vercel.app/api?username=Hossein-Ak&show_icons=true&theme=gotham" alt="Hossein-Ak" /> 
+   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Hossein-Ak&show_icons=true&theme=gotham" alt="Hossein-Ak" />  -->
 <!--    <img src="https://github-readme-streak-stats.herokuapp.com?user=Hossein-Ak" alt="GitHub Streak" /> -->
   </p>
   
