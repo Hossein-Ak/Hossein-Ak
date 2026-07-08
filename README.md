@@ -17,11 +17,11 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/hrakbari/" target="blank">
 Hossein</a></h1>
 
-
-- 🔭 Currently working as Full-Stack Engineer with Nuxt.js and Laravel, constantly learning and growing every day.
-- 💪 My passion lies in both front-end and back-end development, and I thrive on solving challenging problems, especially those on LeetCode.
-- 💥 Excited to keep pushing the boundaries of what's possible in tech!
-- 📫 I can be found mostly via emails.
+* 👨‍💻 Senior Full-Stack Software Engineer with expertise in designing and building scalable web applications, distributed backend systems, and modern frontend experiences using Node.js, Laravel, TypeScript, Vue.js, and Nuxt.js.
+* 🚀 Passionate about software architecture, API design, performance optimization, clean code, and building maintainable systems that solve real business problems.
+* 🤝 Enjoy collaborating with cross-functional teams, mentoring engineers, conducting code reviews, and driving engineering best practices to deliver high-quality software.
+* 🧠 Continuously exploring modern technologies, cloud-native development, AI-powered applications, and system design while sharpening problem-solving skills through algorithmic challenges.
+* 📫 Feel free to reach out via email for collaboration, engineering discussions, or new opportunities.
 
 ---
 
